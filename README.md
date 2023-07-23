@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## contribution grid snake 👋
+# Hi there 👋, contribution grid snake ✨. If you also want to achieve this, please fork it . 
 
 ![github-contribution-grid-snake.svg](https://raw.githubusercontent.com/wscodinglover/wscodinglover/main/assets/github-contribution-grid-snake.svg)
 
