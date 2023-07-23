@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+## contribution grid snake 👋
+
+![github-contribution-grid-snake.svg](https://raw.githubusercontent.com/wscodinglover/wscodinglover/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **wscodinglover/wscodinglover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
